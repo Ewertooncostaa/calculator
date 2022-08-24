@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+New Flutter Project Calculator
 
 ## Getting Started
 
